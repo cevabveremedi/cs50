@@ -1,0 +1,1 @@
+![Certificate](CS50x.png)
